@@ -5,4 +5,4 @@ a. Create a Maven Project with BDD-Cucumber Framework, Page Object Model, add lo
 b. Use Edge browser. 
 c. Make use of tags, Hooks 
 d. Create a single feature file with multiple scenarios
-The project includes the automation testing for Login with different scenarios.
+The project includes the automation testing for Login feature with different scenarios.
